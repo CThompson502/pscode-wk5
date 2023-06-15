@@ -19,8 +19,8 @@ d) Write out the results found from steps b and c with a message describing what
 	Minimum array
 	Maximum array
 		Print “results”
-			Print “average” array
-			Print “minimum” array
-			Print “maximum” array
+			Print “average” of array
+			Print “minimum” of array
+			Print “maximum” of array
 
 -- END --
